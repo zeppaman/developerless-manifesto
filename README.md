@@ -17,7 +17,7 @@ We follow these principles:
 2. I don't want to be essential.
 3. Be the bottleneck and essential is not the way to preserve my work. Bringing value will bring more value.
 4. There is no value that a developer can add doing  repetitive tasks when a machine can do for you.
-5. There is no value doing a manual task when it can be automated.
+5. There is no value in doing a manual task when it can be automated.
 6. Our purpose is to create new software, not being crushed under old software maintenance.
 7. The software must be reusable.
 8. Taking from the community must be ethical. You have to give back what you take.
