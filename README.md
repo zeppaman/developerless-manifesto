@@ -21,6 +21,8 @@ We follow these principles:
 6. Our purpose is to create new software, not being crushed under old software maintenance
 7. The software must be reusable
 8. taking from the community must be ethical. You have to give back what you take.
+9. information inside the team must be shared. You don't want to keep information for yourself to reach an advantageous position
+10. Speak clearly, with easy terms. You want to be understood by everybody, even non-developer. You don't want to use technicalities like a shield.
 
 ## Contribute to developerless
 - Add a star to sign the manifesto and join the movement
